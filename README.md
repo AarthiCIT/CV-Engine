@@ -24,3 +24,6 @@ CV Engine is an AI-powered resume screening backend system built to automate and
 - **Parsing Tools**: python-docx, PyPDF2, lxml
 - **Utility Libraries**: NumPy, SciPy, Joblib
 - **Model Hosting**: Hugging Face Hub
+
+- ![WhatsApp Image 2025-06-09 at 14 48 07_fd434884](https://github.com/user-attachments/assets/1acdcd99-2e61-4366-82f2-bfc7c43c3d98)
+
